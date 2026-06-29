@@ -14,15 +14,15 @@
 
 This project builds an interactive dashboard exploring the NASA Exoplanet Archive's 
 confirmed planets table. Unlike static charts, every visualization is fully interactive 
-— hover over any planet for details, zoom into regions of interest, toggle size classes 
+- hover over any planet for details, zoom into regions of interest, toggle size classes 
 on and off, and watch the entire history of exoplanet discovery animate year by year.
 
 The dashboard covers four interactive views:
 
-1. Planet size vs orbital period — colored by discovery method with solar system reference points
-2. Host star temperature vs planet equilibrium temperature — with habitability reference lines
-3. Distance from Earth vs planet radius — with JWST accessibility and rocky planet thresholds
-4. Animated discovery timeline — watch the catalog grow from 2 planets in 1992 to 5,911 in 2026
+1. Planet size vs orbital period: colored by discovery method with solar system reference points
+2. Host star temperature vs planet equilibrium temperature: with habitability reference lines
+3. Distance from Earth vs planet radius: with JWST accessibility and rocky planet thresholds
+4. Animated discovery timeline: watch the catalog grow from 2 planets in 1992 to 5,911 in 2026
 
 ---
 
